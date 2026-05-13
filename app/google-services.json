@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "650073588235",
+    "project_id": "shopin-270d1",
+    "storage_bucket": "shopin-270d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650073588235:android:121a93b2be52e7731dfd0e",
+        "android_client_info": {
+          "package_name": "com.example.shopin_seller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo_Jm1JaQLnmhhB-fVdnW3lMYkeX9IboE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650073588235:android:89419bd84eaf9bc91dfd0e",
+        "android_client_info": {
+          "package_name": "com.example.shopinindia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo_Jm1JaQLnmhhB-fVdnW3lMYkeX9IboE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
