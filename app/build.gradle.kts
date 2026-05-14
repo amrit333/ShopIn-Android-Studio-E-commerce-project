@@ -50,3 +50,7 @@ dependencies {
     androidTestImplementation(libs.espresso.core)
     androidTestImplementation(libs.ext.junit)
 }
+
+    dependencies{
+        implementation ("com.karumi:dexter:6.2.3")
+    }
